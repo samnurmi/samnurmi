@@ -1,8 +1,11 @@
 # Hi there 👋
 
+Working on this things:  
 
-
-
+- Roboten - a new way to build applications from the ground up.  
+- KerrOS - The 6th and missing operating system. The web operating system.  
+- Mettlo - An infrastructure wrapper. Have only one place, but under use any modern hyperscalers or local vendors, or even your own infrastructure.  
+- Blinking things - Open Source blueprint to become your own hyperscaler or GPU hyperscaler.  
 
 <!--
 **samnurmi/samnurmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
