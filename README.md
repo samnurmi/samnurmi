@@ -7,7 +7,9 @@ Working on this things:
 - Mettlo - An infrastructure wrapper. Manage all your infrastructure from one place, but underneath use any modern hyperscalers or local vendors, or your own infrastructure.  
 - Blinking things - Open Source blueprint to become your own hyperscaler or GPU hyperscaler.  
 
-\* ... should I also add the buzzword AI here and there?  
+\* What do you think, should I also add the buzzword AI here and there? 😂  
+
+
 
 <!--
 **samnurmi/samnurmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
