@@ -2,7 +2,7 @@
 
 **Working on this things:**
 - **Business Administration**
-  - **Dooer** - A financial and Business Administration Operating system for your business.
+  - **Dooer** - A Financial and Business Administration Operating System.
 - **Infrastructure and Core**
   - **Roboten** - a new way to build applications re-imagined from the ground up.
   - **KerrOS** - The 6th and missing operating system. The web operating system.
