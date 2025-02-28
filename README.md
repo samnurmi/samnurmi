@@ -1,14 +1,14 @@
-# Hi there 👋
+# Hi there 👋  
+Currently working on:
 
-**Working on this things:**
-- **Business Administration**
-  - **Dooer** - A Financial and Business Administration Operating System.
-- **Infrastructure and Core**
-  - **Roboten** - a new way to build applications re-imagined from the ground up.
-  - **KerrOS** - The 6th and missing operating system. The web operating system.
-  - **Mettlo** - An infrastructure wrapper. Manage all your infrastructure from one place, but underneath use any modern hyperscalers or local vendors, or your own infrastructure.
-  - **Blinking things** - Open Source blueprint to become your own hyperscaler or GPU hyperscaler.
+**Business Administration**  
+- **Dooer** – A Financial and Business Administration Operating System.
 
+**Infrastructure and Core**  
+- **Roboten** – A new way to build applications, re-imagined from the ground up.
+- **KerrOS** – The 6th and missing operating system; the web operating system.
+- **Mettlo** – An infrastructure wrapper that lets you manage all your infrastructure from one place, supporting any modern hyperscaler, local vendor, or your own infrastructure.
+- **Blinking Things** – Open-source blueprint to become your own hyperscaler or GPU hyperscaler.
 
 
 
