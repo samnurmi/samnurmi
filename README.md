@@ -3,7 +3,7 @@ Currently working on:
 
 **Infrastructure and Core:**  
 - **Roboten** – A new way to build applications, re-imagined from the ground up.
-- **KerrOS** – The 6th and missing operating system; the web operating system.
+- **KerrOS** – The 6th and missing operating system; the web operating system, and an AI kernel.
 - **Mettlo** – An infrastructure wrapper that lets you manage all your infrastructure from one place, supporting any modern hyperscaler, local vendor, or your own infrastructure.
 - **Blinking Things** – Open-source blueprint to become your own hyperscaler or GPU hyperscaler.
 
